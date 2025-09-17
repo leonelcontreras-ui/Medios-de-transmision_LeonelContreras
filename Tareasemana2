@@ -1,0 +1,64 @@
+# comparaciones de Medios de transmisión 
+
+# Comparativa deMedios de Transmisión Guiados y No Guiados (Inalámbricos).
+
+## 📝 Resumen
+*(escribir resumen sobre los Medios de transmisión )*
+Los medios de transmisión son las vías por las cuales se transportan los datos. Según la necesidad o no de utilizar un soporte físico para la transmisión de la señal, se clasifican en dos grandes grupos:
+Medios Guiados y no Guiados. 
+## 🔑 Palabras clave
+*(Escriba aquí cinco palabras clave separadas por comas y en orden alfabético. Ejemplo: aprendizaje virtual, dinamico, , heramientas virtuales)*
+Coaxial, Transmición, Modular, Datos, Conexión. 
+---
+
+## 🎯 Introducción
+*(escribir una introducion )*
+
+---En esta pequeña actividad vas a conocer que son los medios de transmision, los tipos y ventajas y desventajas de los mismos. 
+
+## 🔍 Desarrollo del análisis
+
+### Medios de Transmisión Guiados
+- Características generales: Tienen definido un punto al que van/Por el que viajan.
+- Usos:
+- Ventajas:
+- desventajas:
+
+### Medios de Transmisión No Guiados (Inalámbricos)
+- Características generales: No se necesita de algun tipo de cable. 
+- Usos:
+- ventajas: no 
+- desventajas:Atenuacion, ruido, distorcion.
+
+---
+
+## 📊 Cuadro comparativo (Opcional)
+
+| Medios de transmisión | Caracteristica| USO  | CERTIFICACIONES S/N  |EJEMPLOS|
+|-----------------------|---------------|------|----------------------|--------|
+| Fibra óptica          |Alta velocidad |Larga distancia|ANSI/TIA-568, ISO/IEC 11801, ITU-T|Internet FTTH|
+| Cable de par trenzado |Bajo costo|Redes LAN|ANSI/TIA-568, ISO/IEC 11801|UTP Cat 5e|
+| Cable coaxial         |Alta Proteccion|TV / Internet|ANSI/SCTE, IEEE 802.3, ISO/IEC|RG-6,RG-56|
+
+---
+## 🧠 Conclusión
+*( escribir conclucion.)*
+
+---En el mundo de la comunicación de datos, los medios de transmisión son la base de cualquier 
+sistema de comunicación y proporcionan las vías físicas para transmitir señales entre 
+dispositivos. 
+Ya sea que se utilicen medios guiados como cables de par trenzado, cables coaxiales y fibra 
+óptica, o medios no guiados como ondas de radio, microondas y comunicación infrarroja, la 
+elección del medio de transmisión juega un papel crucial en la eficiencia, confiabilidad y 
+rentabilidad de la red. 
+Al comprender las características, ventajas y limitaciones de cada tipo de medio de 
+transmisión, los diseñadores de redes pueden crear sistemas de comunicación robustos que 
+satisfagan las necesidades específicas de empresas, gobiernos e individuos en un mundo cada 
+vez más conectado. 
+
+## 📚 Referencias
+*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
+
+> Ejemplo:   
+> B.P. Lathi, Modern Digital and Analog Communication Systems. Oxford University
+ Press 1989
